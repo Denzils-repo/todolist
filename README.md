@@ -15,7 +15,7 @@ This is a demo project (no database, no persistence — tasks reset when you ref
 ---
 
 ## 🚀 Live Demo
-👉 [View on GitHub Pages](https://denzilstodolist.github.io/)  
+👉 [View on GitHub Pages]([https://denzilstodolist.github.io/](https://denzils-repo.github.io/todolist/))  
 
 ---
 
@@ -42,7 +42,7 @@ This is a demo project (no database, no persistence — tasks reset when you ref
 ---
 
 ## 🔗 Links
-- 💻 [Source Code](https://github.com/Denzils-repo/todolist)  
+- 💻 [Source Code](https://github.com/Denzils-repo/todolist/)  
 - 🐙 [My GitHub Profile](https://github.com/Denzils-repo)  
 
 ---
