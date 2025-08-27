@@ -1,0 +1,96 @@
+#completed{
+    color: red;
+    text-decoration:line-through;
+    text-decoration-thickness: 0.5px;
+}
+
+main{
+    color: #E4BE6B;
+    height: auto;
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 0px;
+    border-radius: 9px;
+    box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.8);
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin:0;
+    background-image: url(https://public-files.gumroad.com/ebppu3ef1j6w5jcgdf611jd385k7);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    backdrop-filter: blur(12px);
+    font-family: "Caveat", cursive;
+}
+
+ul{
+    list-style-position: inside;
+}
+li,label{
+    cursor: pointer;
+}
+
+*{
+    margin: 2px;
+    padding: 2px;
+    text-align: center;
+}
+h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input,button{
+    border: 0px;
+    border-radius: 6px;
+    margin: 0;
+    padding: 5px;
+    background-color: rgba(255, 255, 255,);
+    box-shadow: 3px 3px 9px 1px rgba(255, 255, 255, 0.4);
+    cursor: pointer;
+    font-family: "Caveat", cursive;
+}
+
+input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: white;
+  box-shadow: none;
+  vertical-align: middle;
+}
+
+#add:hover{
+    color: rgb(0, 0, 0);
+    background-color: #6DA189;
+}
+
+#val:focus{
+    color: white;
+    background-color: black;
+    outline: none;
+}
+
+.incomplete:hover{
+    text-shadow: 3px 3px 10px rgb(255, 200, 0);
+}
+
+.complete:hover{
+    text-shadow: 3px 3px 10px rgb(255, 0, 0);
+}
+
+h2{
+    text-decoration: underline;
+}
