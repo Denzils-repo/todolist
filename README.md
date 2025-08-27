@@ -15,20 +15,20 @@ This is a demo project (no database, no persistence — tasks reset when you ref
 ---
 
 ## 🚀 Live Demo
-👉 [View on GitHub Pages](https://denzils-repo.github.io/todolist/)
+👉 [View on GitHub Pages](https://denzils-repo.github.io/todolist/)  
 
 ---
 
 ## 🖼️ Preview
-(Add a screenshot of your app here, e.g. `![App Screenshot](screenshot.png)`)
+![App Screenshot](preview.png)
 
 ---
 
 ## 📂 Project Structure
-├── index.html # Main HTML
-├── stylesheet.css # Styling
-├── script.js # To-do logic
-└── LICENSE # MIT License
+├── index.html # Main HTML<br>
+├── stylesheet.css # Styling<br>
+├── script.js # To-do logic<br>
+└── LICENSE # MIT License<br>
 
 
 ---
@@ -42,7 +42,7 @@ This is a demo project (no database, no persistence — tasks reset when you ref
 ---
 
 ## 🔗 Links
-- 💻 [Source Code](https://github.com/Denzils-repo/todolist/)  
+- 💻 [Source Code](https://github.com/Denzils-repo/todolist)  
 - 🐙 [My GitHub Profile](https://github.com/Denzils-repo)  
 
 ---
