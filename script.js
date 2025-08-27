@@ -55,7 +55,8 @@ function updatedone(val) {
     let todoli = todoul.querySelector(`li[value="${val}"]`);
     let completed=document.getElementById("completed");
     if (todoli) {
-        completed.innerHTML+=`<li class="complete">${todoli.textContent}</li>`
+        completed.innerHTML+=`<li class="complete"cd D:\Study Material\Programming\WebDev\myfreecodecampstuff\PersonalProjects\project2
+>${todoli.textContent}</li>`
         document.getElementById("optext").innerHTML=`<p style="color:#6DA189; font-weight:bold">--You completed a task: ${todoli.textContent}--</p>`;
         todoul.removeChild(todoli);
     }
