@@ -56,7 +56,7 @@ input,button{
     background-color: rgba(255, 255, 255,);
     box-shadow: 3px 3px 9px 1px rgba(255, 255, 255, 0.4);
     cursor: pointer;
-    font-family: "Caveat", cursive;
+    font-family: "Patrick Hand", cursive;
 }
 
 input[type="checkbox"] {
